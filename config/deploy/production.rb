@@ -60,4 +60,4 @@
 #     # password: "please use keys"
 #   }
 #
-server '192.168.3.62', user: 'zhe', roles: %w{app db web}
+server '192.168.3.63', user: 'zhe', roles: %w{app db web}
